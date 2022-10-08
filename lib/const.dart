@@ -1,0 +1,1 @@
+String inr_symbol = "₹";

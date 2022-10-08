@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030011398546",
+    "project_id": "finx-28532",
+    "storage_bucket": "finx-28532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030011398546:android:ba38b5cb05eda8cc3d794b",
+        "android_client_info": {
+          "package_name": "com.finx.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030011398546-2s4vipc8it6k75736i8t1rt2iqegkpai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finx.app",
+            "certificate_hash": "98d8480949042fdfc42c283a342371608ab40c3a"
+          }
+        },
+        {
+          "client_id": "1030011398546-ab745jqh6g4eas1t51s9ncvsjpoof3k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqyLEHADqxyZ2oRXxgErLg8bxvaqfx6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030011398546-ab745jqh6g4eas1t51s9ncvsjpoof3k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
